@@ -1,0 +1,1 @@
+If you want to blend (average) several frames together, press T to reset all of the frames, and then press F to enable averaging. It might take a few seconds to average the frames depending on your fps.
