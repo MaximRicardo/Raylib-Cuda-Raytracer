@@ -616,7 +616,9 @@ int main() {
 
     //Polygons
     std::vector<Polygon> pols;
-    
+
+    //Create all the polygons
+    //You can create whatever polygons you want here
     {
         Polygon pol;
         pol.points[0] = { 1.f,-1.f,2.f };
